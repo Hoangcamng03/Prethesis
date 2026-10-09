@@ -1,0 +1,6 @@
+{
+  "name": "SplintFit - Thiết kế Nẹp Y tế 3D & Kiểm tra An toàn",
+  "description": "Phần mềm CAD y tế hỗ trợ thiết kế nẹp chỉnh hình từ dữ liệu quét 3D, phân tích mặt cắt, bản đồ nhiệt khoảng hở và xuất thông số sang Fusion 360.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
